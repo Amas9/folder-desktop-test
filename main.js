@@ -17,3 +17,6 @@ let main = `main`
 let main = `main`
 // i added in main files cause i want marge this nad second in the time
 for main
+
+let main = `main`
+// i added in main files cause i want marge this nad second in the time
