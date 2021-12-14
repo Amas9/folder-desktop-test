@@ -17,3 +17,10 @@ let second = `second`
 let second = `second`
 // i added in main files cause i want marge this nad second in the time
 for second
+
+et second = `second`
+// i added in main files cause i want marge this nad second in the time
+
+let second = `second`
+// i added in main files cause i want marge this nad second in the time
+for second
