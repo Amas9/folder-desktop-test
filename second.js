@@ -2,7 +2,7 @@ function name(params) {
 let second = `second`
 }
 
-let a = 500
+let main = 5000
 
 for (let index = 0; index < array.length; index++) {
     const element = array[index];
